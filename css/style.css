@@ -1,5 +1,5 @@
 .min-bg{
-    background-image: url('/photo/bg.png');
+    background-image: url('../photo/bg.png');
     background-position: center center;
     background-size: cover;
 }
@@ -41,7 +41,7 @@ span{
     background-color: #20272F;
 }
 .contact-bg{
-    background-image: url('/photo/portfolio.png');
+    background-image: url('../photo/portfolio.png');
     background-size: cover;
     background-position: center center;
 }
