@@ -1,0 +1,51 @@
+.min-bg{
+    background-image: url('/photo/bg.png');
+    background-position: center center;
+    background-size: cover;
+}
+.nav-item a{
+    color:white;
+}
+.nav-item a:hover{
+    color: white;
+    transition:2s;
+}
+span{
+    color:#41C98B;
+}
+.min-text{
+    font-weight: 200px;
+    font-family: 'Roboto', sans-serif;
+}
+.btn{
+    background-color: #41C98B;
+}
+.btn{
+    color: white;
+}
+.btn:hover{
+    background-color: #41C98B;
+}
+.about-bg{
+    background-color: #20272F;
+}
+.service-bg{
+    background-color: #20272F;
+}
+.Portfolio-bg{
+    background-image: url('/photo/portfolio.png');
+    background-size:cover ;
+    background-position: center center;
+}
+.services-bg{
+    background-color: #20272F;
+}
+.contact-bg{
+    background-image: url('/photo/portfolio.png');
+    background-size: cover;
+    background-position: center center;
+}
+.btn a{
+    text-decoration: none;
+    color:white;
+}
