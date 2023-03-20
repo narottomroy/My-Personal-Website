@@ -1,5 +1,6 @@
 .min-bg{
-    background-image: url('../photo/bg.png');
+    background-color: #20272F;
+    /* background-image: url('../photo/bg.png'); */
     background-position: center center;
     background-size: cover;
 }
@@ -48,4 +49,12 @@ span{
 .btn a{
     text-decoration: none;
     color:white;
+}
+.social-media{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    background: transparent;
 }
